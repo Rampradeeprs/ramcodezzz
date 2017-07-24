@@ -10,4 +10,5 @@ for(i=1;i<n;i++)
 n%=10;
 count++;
 }
+printf("the digit is"); 
 }
